@@ -1,0 +1,481 @@
+{
+  "results": [
+  {
+    "id": 1,
+    "cover_art": "samstown.png",
+    "title": "Sam's Town",
+    "artist": "The Killers",
+    "songs": [
+      {
+        "title": "Sam's Town",
+        "length": "4:05"
+      }, {
+        "title": "Enterlude",
+        "length": "0:49"
+      }, {
+        "title": "When You Were Young",
+        "length": "3:39"
+      }, {
+        "title": "Bling (Confession of a King)",
+        "length": "4:08"
+      }, {
+        "title": "For Reasons Unknown",
+        "length": "3:32"
+      }, {
+        "title": "Read My Mind",
+        "length": "4:06"
+      }, {
+        "title": "Uncle Jonny",
+        "length": "4:25"
+      }, {
+        "title": "Bones",
+        "length": "3:46"
+      }, {
+        "title": "My List",
+        "length": "4:08"
+      }, {
+        "title": "This River Is Wild",
+        "length": "4:38"
+      }, {
+        "title": "Why Do I Keep Counting?",
+        "length": "4:23"
+      }, {
+        "title": "Exitlude",
+        "length": "2:24"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "cover_art": "lemonade.png",
+    "title": "Lemonade",
+    "artist": "Beyoncé",
+    "songs": [
+      {
+        "title": "Pray You Catch Me",
+        "length": "3:15"
+      }, {
+        "title": "Hold Up",
+        "length": "3:41"
+      }, {
+        "title": "Don't Hurt Yourself",
+        "length": "3:53"
+      }, {
+        "title": "Sorry",
+        "length": "3:52"
+      }, {
+        "title": "6 Inch",
+        "length": "4:20"
+      }, {
+        "title": "Daddy Lessons",
+        "length": "4:47"
+      }, {
+        "title": "Love Drought",
+        "length": "3:57"
+      }, {
+        "title": "Sandcastles",
+        "length": "3:02"
+      }, {
+        "title": "Forward",
+        "length": "1:19"
+      }, {
+        "title": "Freedom",
+        "length": "4:49"
+      }, {
+        "title": "All Night",
+        "length": "5:21"
+      }, {
+        "title": "Formation",
+        "length": "3:26"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "cover_art": "musicas_para_churrasco.jpg",
+    "title": "Músicas Para Churrasco",
+    "artist": "Seu Jorge",
+    "songs": [
+      {
+        "title": "A Doida",
+        "length": "3:05"
+      }, {
+        "title": "Meu Parceiro",
+        "length": "3:11"
+      }, {
+        "title": "Véia",
+        "length": "3:21"
+      }, {
+        "title": "Dois Beijinhos",
+        "length": "4:15"
+      }, {
+        "title": "Vizinha",
+        "length": "3:36"
+      }, {
+        "title": "Amiga Da Minha Mulher",
+        "length": "4:08"
+      }, {
+        "title": "Dia De Comemorar",
+        "length": "3:05"
+      }, {
+        "title": "Japonesa",
+        "length": "3:54"
+      }, {
+        "title": "Olê, Olê",
+        "length": "3:01"
+      }, {
+        "title": "Quem Não Quer Sou Eu",
+        "length": "5:26"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "cover_art": "back_to_black.png",
+    "title": "Back to Black",
+    "artist": "Amy Winehouse",
+    "songs": [
+      {
+        "title": "Rehab",
+        "length": "3:34"
+      }, {
+        "title": "You Know I'm No Good",
+        "length": "4:17"
+      }, {
+        "title": "Me & Mr Jones",
+        "length": "2:33"
+      }, {
+        "title": "Just Friends",
+        "length": "3:13"
+      }, {
+        "title": "Back to Black",
+        "length": "4:01"
+      }, {
+        "title": "Love Is a Losing Game",
+        "length": "2:35"
+      }, {
+        "title": "Tears Dry on Their Own",
+        "length": "3:06"
+      }, {
+        "title": "Wake Up Alone",
+        "length": "3:42"
+      }, {
+        "title": "Some Unholy War",
+        "length": "2:22"
+      }, {
+        "title": "He Can Only Hold Her",
+        "length": "2:46"
+      }, {
+        "title": "Addicted",
+        "length": "2:45"
+      }
+    ]
+  },
+  {
+    "id": 5 ,
+    "cover_art": "the_desired_effect.jpg",
+    "title": "The Desired Effect",
+    "artist": "Brandon Flowers",
+    "songs": [
+      {
+        "title": "Dreams Come True",
+        "length": "4:03"
+      }, {
+        "title": "Can't Deny My Love",
+        "length": "3:42"
+      }, {
+        "title": "I Can Change",
+        "length": "4:18"
+      }, {
+        "title": "Still Want You",
+        "length": "3:11"
+      }, {
+        "title": "Between Me and You",
+        "length": "4:39"
+      }, {
+        "title": "Lonely Town",
+        "length": "3:30"
+      }, {
+        "title": "Diggin' Up the Heart",
+        "length": "3:49"
+      }, {
+        "title": "Never Get You Right",
+        "length": "3:43"
+      }, {
+        "title": "Untangled Love",
+        "length": "4:11"
+      }, {
+        "title": "The Way It's Always Been",
+        "length": "3:59"
+      }
+    ]
+  },
+  {
+    "id": 6 ,
+    "cover_art": "chariot.jpg",
+    "title": "Chariot",
+    "artist": "Gavin Degraw",
+    "songs": [
+      {
+        "title": "Follow Through",
+        "length": "3:59"
+      }, {
+        "title": "Chariot",
+        "length": "3:59"
+      }, {
+        "title": "Just Friends",
+        "length": "3:25"
+      }, {
+        "title": "(Nice to Meet You) Anyway",
+        "length": "3:45"
+      }, {
+        "title": "Chemical Party",
+        "length": "3:01"
+      }, {
+        "title": "Belief",
+        "length": "4:27"
+      }, {
+        "title": "Crush",
+        "length": "3:25"
+      }, {
+        "title": "I Don't Want to Be",
+        "length": "3:39"
+      }, {
+        "title": "Meaning",
+        "length": "3:35"
+      }, {
+        "title": "More Than Anyone",
+        "length": "2:57"
+      }, {
+        "title": "Over-Rated",
+        "length": "4:11"
+      }
+    ]
+  },
+  {
+    "id": 7 ,
+    "cover_art": "uns_dias.jpg",
+    "title": "Uns Dias",
+    "artist": "Paralamas do Sucesso",
+    "songs": [
+      {
+        "title": "O Calibre",
+        "length": "4:38"
+      }, {
+        "title": "Running on the Spot",
+        "length": "3:15"
+      }, {
+        "title": "Trac Trac",
+        "length": "4:15"
+      }, {
+        "title": "Mensagem de Amor",
+        "length": "4:05"
+      }, {
+        "title": "Selvagem",
+        "length": "3:40"
+      }, {
+        "title": "Soldado da Paz",
+        "length": "2:59"
+      }, {
+        "title": "Que País é Este",
+        "length": "3:35"
+      }, {
+        "title": "Seguindo Estrelas",
+        "length": "3:57"
+      }, {
+        "title": "Meu Erro",
+        "length": "3:21"
+      }, {
+        "title": "Cuide Bem do Seu Amor",
+        "length": "3:44"
+      }, {
+        "title": "Longo Caminho",
+        "length": "3:37"
+      }, {
+        "title": "Tendo a Lua",
+        "length": "3:23"
+      }, {
+        "title": "Será Que Vai Chover?/Assaltaram a Gramática/O Filho Pródigo",
+        "length": "4:34"
+      }, {
+        "title": "Dos Margaritas",
+        "length": "3:00"
+      }, {
+        "title": "Depois da Queda o Coice",
+        "length": "3:02"
+      }, {
+        "title": "Ska",
+        "length": "2:24"
+      }, {
+        "title": "La Bella Luna",
+        "length": "3:04"
+      }, {
+        "title": "Uns Dias",
+        "length": "3:55"
+      }, {
+        "title": "Caleidoscópio",
+        "length": "5:37"
+      }, {
+        "title": "Ela Disse Adeus",
+        "length": "3:14"
+      }, {
+        "title": "Lanterna dos Afogados",
+        "length": "4:48"
+      }, {
+        "title": "Uma Brasileira",
+        "length": "3:35"
+      }, {
+        "title": "O Beco",
+        "length": "3:14"
+      }, {
+        "title": "Alagados",
+        "length": "5:42"
+      }, {
+        "title": "Lourinha Bombril (Parate y Mira)",
+        "length": "3:07"
+      }, {
+        "title": "Mensagem de Amor",
+        "length": "4:21"
+      }
+    ]
+  },
+  {
+    "id": 8 ,
+    "cover_art": "riot.png",
+    "title": "Riot",
+    "artist": "Paramore",
+    "songs":[
+      {
+        "title": "For a Pessimist, I'm Pretty Optimistic",
+        "length": "3:48"
+      }, {
+        "title": "That's What You Get",
+        "length": "3:40"
+      }, {
+        "title": "Hallelujah",
+        "length": "3:23"
+      }, {
+        "title": "Misery Business",
+        "length": "3:31"
+      }, {
+        "title": "When It Rains",
+        "length": "3:35"
+      }, {
+        "title": "Let the Flames Begin",
+        "length": "3:18"
+      }, {
+        "title": "Miracle",
+        "length": "3:29"
+      }, {
+        "title": "Crushcrushcrush",
+        "length": "3:09"
+      }, {
+        "title": "We Are Broken",
+        "length": "3:38"
+      }, {
+        "title": "Fences",
+        "length": "3:18"
+      }, {
+        "title": "Born for This",
+        "length": "3:58"
+      }
+    ]
+  },
+  {
+    "id": 9 ,
+    "cover_art": "viva_tim_maia.jpg",
+    "title": "Viva Tim Maia!",
+    "artist": "Ivete & Criolo",
+    "songs": [
+      {
+        "title": "Não Quero Dinheiro (Só Quero Amar)",
+        "length": "2:38"
+      }, {
+        "title": "Primavera (Vai Chuva)",
+        "length": "4:04"
+      }, {
+        "title": "Lábios de Mel",
+        "length": "3:24"
+      }, {
+        "title": "Telefone",
+        "length": "4:04"
+      }, {
+        "title": "Chocolate",
+        "length": "3:01"
+      }, {
+        "title": "Você e Eu, Eu e Você (Juntinhos)",
+        "length": "3:46"
+      }, {
+        "title": "Réu Confesso",
+        "length": "3:44"
+      }, {
+        "title": "Me Dê Motivo",
+        "length": "4:27"
+      }, {
+        "title": "Um Dia de Domingo",
+        "length": "4:48"
+      }, {
+        "title": "Azul da Cor do Mar",
+        "length": "4:58"
+      }, {
+        "title": "Coroné Antônio Bento",
+        "length": "3:22"
+      }, {
+        "title": "Medley: Sossego / Do Leme ao Pontal",
+        "length": "5:56"
+      }
+    ]
+  },
+  {
+    "id": 10 ,
+    "cover_art": "the_black_parade.jpg",
+    "title": "The Black Parade",
+    "artist": "My Chemical Romance",
+    "songs": [
+      {
+        "title": "The End.",
+        "length": "1:52"
+      }, {
+        "title": "Dead!",
+        "length": "3:15"
+      }, {
+        "title": "This Is How I Disappear",
+        "length": "3:59"
+      }, {
+        "title": "The Sharpest Lives",
+        "length": "3:20"
+      }, {
+        "title": "Welcome to the Black Parade",
+        "length": "5:11"
+      }, {
+        "title": "I Don't Love You",
+        "length": "3:58"
+      }, {
+        "title": "House of Wolves",
+        "length": "3:04"
+      }, {
+        "title": "Cancer",
+        "length": "2:22"
+      }, {
+        "title": "Mama",
+        "length": "4:39"
+      }, {
+        "title": "Sleep",
+        "length": "4:43"
+      }, {
+        "title": "Teenagers",
+        "length": "2:41"
+      }, {
+        "title": "Disenchanted",
+        "length": "4:55"
+      }, {
+        "title": "Famous Last Words",
+        "length": "4:59"
+      }, {
+        "title": "Blood",
+        "length": "2:53"
+      }
+    ]
+  }
+  ]
+}

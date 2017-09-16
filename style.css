@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  font-family: Avenir;
+  box-sizing: border-box;
+}
+
+html, body{
+  height: 100%;
+  width: 100%;
+}
+.my-wrapper{
+  min-height: 100%;
+  text-align: center;
+}
+
+#my-row{
+  margin-bottom: 0;
+  display: flex;
+}
+
+.first-half{
+  /*background-color: rgba(255,255,240, 0.1);*/
+  background-color: #EEEEEE;
+  color: purple;
+}
+.second-half{
+  background-image: url(./resources/fadedTrackCropped2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.cover-art{
+  height: 239px;
+  width: 239px;
+  margin: 5px auto;
+  background-size: cover;
+  border-radius: 10px;
+  display: flex;
+}
+
+.my-header{
+  background-color: #9B9B8C;
+  height: 60px;
+  border-bottom: 1px solid black;
+}
+
+.my-footer{
+  background-color: #686859;
+  height: 60px;
+  border-top: 1px solid black;
+  padding: 8px 50px;
+  font-size: 25px;
+  color: white;
+  width: 100%;
+}

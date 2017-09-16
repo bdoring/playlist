@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My Tracklists</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+    <link rel="stylesheet" href="./playlistPageStyle.css">
+    <script
+      src="https://code.jquery.com/jquery-2.2.4.min.js"
+      integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+      crossorigin="anonymous"></script>
+    <script src="./playlistPageScript.js"></script>
+    <!-- Compiled and minified CSS -->
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="playlistPage-header z-depth-2">
+        click an album to add its tracks to the bin
+      </header>
+
+      <div class="album-display center">
+      </div>
+
+      <div class="album-list">
+        <div class="add-tracks">
+          <h5>Add tracks from:</h5>
+          <p>Choose an album</p>
+        </div>
+        <div class="track-info z-depth-5">
+          <form action="#" class="track-list">
+          </form>
+        </div>
+        <div class="row-img valign-wrapper">
+              <i id="my-icon" class= "material-icons">forward</i>
+        </div>
+        <div class="selected-tracks z-depth-5">
+
+        </div>
+      </div>
+
+      <div class="buttons-container">
+        <a id="clear" class="btn waves-effect waves-light blue-grey darken-3">clear tracks</a>
+        <a id="submit" class="btn waves-effect waves-light blue-grey darken-3">submit bin</a>
+      </div>
+      <div class="push"></div>
+    </div>
+    <footer class="my-footer z-depth-5 hoverable">
+      &copy; 2017 Bárbara Doring
+    </footer>
+
+  </body>
+
+</html>
